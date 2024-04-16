@@ -1,5 +1,5 @@
 #Easy devops
-#leonce
+#Leonce
 # simple-java-maven-app
 
 This repository is for the
