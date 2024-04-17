@@ -1,5 +1,5 @@
 #Easy devops
-#Davy leonce
+#Davy Leonce
 # simple-java-maven-app
 
 This repository is for the
