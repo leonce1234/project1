@@ -1,5 +1,6 @@
 #Easy devops
 #Davy Leonce
+#new version
 # simple-java-maven-app
 
 This repository is for the
